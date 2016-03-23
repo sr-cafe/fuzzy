@@ -1,0 +1,2 @@
+# fuzzy
+An idea processor
